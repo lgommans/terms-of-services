@@ -1,0 +1,146 @@
+
+Privacy Policies and Information on Personal Data
+1 Responsible for data processing
+
+Arbeitnehmer online is an offer from your employer. Datev is the service provider of your employer or the tax accountant of your employer. If you have any questions about the content, please contact your employer.
+2 Contact
+
+DATEV eG
+data protection officer
+Dr. Jörg Spilker
+Paumgartnerstraße 6 - 14
+90429 Nürnberg
+phone: 0911/319-0
+email: datenschutz@datev.de
+3 Collecting and processing personal data
+
+DATEV collects data in connection with Arbeitnehmer online to fulfil its contract in order to provide you with services. Furthermore, DATEV uses this data on the legal basis of its legitimate interest in correction and continuous improvement of all services provided.
+a) Data that DATEV receives due to your use of the public website
+
+Each time you visit our website, the following data of the accessing system is recorded:
+
+    IP address
+    Information about your browser
+
+DATEV stores this data up to two months to protect the functionality, to optimize and to guarantee the security of the website.
+
+The legal basis for this processing is the legitimate interest of DATEV (Art. 6 Para. 1 lit. f) GDPR).
+
+When you visit our website, anonymous web server logbooks are created, which DATEV stores for statistical purposes (e.g. the number of accesses) and for error tracking. Further evaluations of your usage data will not take place without your consent.
+b) Data that DATEV receives due to your use of the website with access protection
+
+When using the secured area of our websites and online applications, DATEV collects the following data:
+
+    IP address
+    Information about your browser
+    Identification of your person (with nPa, smsTAN)
+    Identification of your employer
+    Time and content of your requests and responses by DATEV
+    Data volume transferred
+    called transactions (URLs)
+    Error messages from the authentication process and the applications
+    If you use a new ID card, a service and card-specific identifier for your identification
+
+User-specific detailed information is stored for a maximum of 30 days.
+We evaluate this data exclusively for the purpose of error and performance analysis, as part of customer support and for tracing executed transactions.
+
+The legal basis for this processing is the legitimate interest of DATEV (Art. 6 Para. 1 lit. f) GDPR).
+c) Data you share with DATEV
+
+You share this data directly with DATEV:
+
+    data regarding your authentication
+    your email address
+    data for the fulfilment of the respective service
+
+This data is stored as long as you are using the respective service. After the employee has finished using this service all data is deleted with the following run according to the schedule for data processing.
+
+Legal basis: this processing is for the fulfilment of the contract with the person concerned (Art. 6 Para. 1 lit. b) GDPR).
+
+DATEV only uses your email address in direct communication with you, for example to inform you about new documents. We will not share your email address with third parties.
+
+Legal basis: the data subject's legitimate interest in prompt information (Art. 6 Para. 1 lit. f) GDPR)
+d) Data that DATEV passes on
+
+To ensure co-operation with your employer and, where applicable, his tax advisor, DATEV will pass on the following data:
+
+    the time of your registration
+    information if and when you deleted your account
+    information about the time of an account recovery
+    information about a change of your login procedure that you have initiated
+    the description of the data fields that led to an error in your registration
+    data that you have marked explicitly for transfer
+
+Data you entered during the registration process or data from your authentication medium are not passed on.
+
+The legal basis for this processing is the legitimate interest of DATEV and the employer or his tax advisor (Art. 6 Para. 1 lit. f) GDPR).
+e) Cookies
+
+DATEV uses temporary and permanent cookies on its own website. Temporary cookies are limited in time and contain data such as an identification number (so-called session ID). They allow the server to assign consecutive requests from the browser to the same user. They are automatically deleted as soon as the user closes the browser.
+
+Permanent cookies, on the other hand, are retained even after the user has closed the browser. At DATEV, permanent cookies for preferences and settings are used to make working with the SmartCard easier. In addition, DATEV uses permanent cookies for non-personalized statistics to further develop and improve our offer for you. No personal data are evaluated. This data will be deleted after three years at the latest.
+
+Legal basis: The setting of cookies serves the fulfilment of legitimate interests of DATEV (Art. 6 Para. 1 lit. f) GDPR).
+
+You can deactivate the storage of cookies via your browser settings and delete cookies that have already been saved at any time in your browser. Please note, however, that this online offer only works to a limited extent without cookies.
+4 Further processing purposes
+
+DATEV may process your personal data on the basis of other legal obligations, e.g. B. judicial order to be processed. Legal basis based on legal requirements (Art. 6 Para. 1 lit. c) GDPR) or in the public interest (Art. 6 Para. 1 lit. e) GDPR).
+
+If necessary, DATEV processes your data beyond the actual fulfillment of the contract to protect legitimate interests of us or third parties. For example for:
+
+    better customer care,
+    Guarantee of IT security and IT operations, e.g. Transmission protocols,
+    Examination and optimization of procedures for needs analysis and direct customer contact,
+    assertion of legal claims and defense in legal disputes,
+    Measures for business management and further development of services and products.
+
+The legal basis for this processing is the legitimate interest of DATEV (Art. 6 Para. 1 lit. f) GDPR).
+
+DATEV does neither process personal data in the context of Arbeitnehmer online for advertising, market and opinion research, nor for profiling and automated decision-making.
+5 Right to object
+
+Contact your employer for content-related data.
+
+You have the right to object at any time, on grounds relating to your particular situation, to the processing of personal data concerning yourself, provided that such processing is carried out in the context of a balancing of interests or in the public interest. Your objection is to be sent to widerspruch@datev.de via email.
+6 Duration of storage
+
+If your personal data are no longer required for the purposes mentioned above, they will be deleted regularly, unless their - temporary - storage is still necessary to fulfil contractual or legal obligations. Reasons for this can e.g. be:
+
+    Obtaining evidence for legal disputes within the framework of the statutory statute of limitations: Civil law limitation periods can be up to 30 years, with the regular limitation period being three years.
+    Log data is stored for up to 2 years and your inquiries with our customer service for up to 3 years.
+
+After this period, the data will be deleted after a postprocessing period.
+7 Recipient of personal data
+
+Within DATEV, those offices who have access to your data to process the above-mentioned purposes are given access. Order processors employed by DATEV (Art. 28 GDPR) and other service providers can also receive data for these purposes. These are companies in the categories IT services, logistics and telecommunications. DATEV also works with universities to develop and improve services. Data will only be passed on to recipients outside of DATEV if provisions permit or require it, you have given your consent or we are otherwise authorized to pass on the data. Under these conditions, recipients of personal data can e.g. be:
+
+    Public bodies and institutions, if there is a legal or official obligation.
+    In rare individual cases of maintenance or for fault analysis, support partners of hardware or software can be used. These are used to conclude the legally stipulated contractual regulations on purpose limitation and confidentiality.
+
+8 Third country
+
+In the context of remote maintenance of standard IT components, it cannot be ruled out for troubleshooting in individual cases that an IT service provider from a third country (e.g. USA) is controlled and limited access to personal data in rare cases. A transfer of personal data to service providers outside the European Economic Area (EEA) only takes place if the third country has confirmed an appropriate level of data protection or other appropriate data protection guarantees (e.g. binding company-internal data protection regulations or EU standard contractual clauses) are in place.
+9 Data subject rights
+
+Contact your employer for content-related data. Upon request, you will receive personal data in a transferable format within the framework of the legal requirements.
+
+For data that DATEV processes for its own purposes, you can request information about the data stored about you. Please inform us if we have stored incorrect data about you or if you do not agree to parts of the data being stored so that we can correct it, delete it or restrict its processing.
+
+To exercise a data subject's right, please contact widerspruch@datev.de with details
+
+    your contact details
+    the rights of the data subject that you want to exercise.
+
+10 Right to lodge a complaint with a supervisory authority
+
+In the event of complaints, you can contact a supervisory authority. The Bavarian State Office for Data Protection Supervision is the responsible supervisory authority for DATEV.
+11 Security
+
+DATEV takes appropriate technical and organizational measures to guarantee a level of protection appropriate to the risk and to protect personal data from destruction, loss, modification or unauthorized disclosure and unauthorized access. The effectiveness of these measures is regularly checked, assessed and evaluated.
+12 Links to other websites
+
+If you call up an external website from our site (external link), the external provider may receive information from your browser from which page you came to it. The external provider is responsible for this data. Like any other provider, we are unable to influence this process.
+13 Video integration via YouTube
+
+Videos from YouTube are integrated on our website. The integration takes place via a so-called 2-click solution; the standard data are only transferred to Google when you click on the video. In detail, the IP address, the specific address of the page accessed by us, possibly the page from which you reached us (link source), the transmitted identifier of the browser and the system date and time of the call can be transmitted here. Google may receive further data about cookies that have already been saved. Google is responsible for this data. No data will be transmitted to YouTube or Google without calling up pages with embedded videos.

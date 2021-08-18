@@ -1,0 +1,144 @@
+
+Datenschutz­prinzipien und Informationen zu personenbezogenen Daten
+1 Verantwortliche für die Datenverarbeitung
+
+Arbeitnehmer online ist ein Angebot ihres Arbeitgebers. Datev ist Dienstleister ihres Arbeitsgebers oder des Steuerberaters ihres Arbeitsgebers. Bei inhaltlichen Fragen wenden Sie sich an ihren Arbeitgeber.
+2 Kontakt
+
+DATEV eG
+Datenschutzbeauftragter
+Dr. Jörg Spilker
+Paumgartnerstraße 6 - 14
+90429 Nürnberg
+Tel. 0911/319-0
+E-Mail: datenschutz@datev.de
+3 Erhebung und Verarbeitung persönlicher Daten
+
+DATEV erfasst im Zusammenhang mit Arbeitnehmer online Daten zur Vertragserfüllung, um Ihnen Dienste zur Verfügung zu stellen. Darüber hinaus verwendet DATEV diese Daten auf der Rechtsgrundlage ihres berechtigten Interesses zur Fehlerbereinigung und stetigen Verbesserung der bereitgestellten Dienste. Diese Daten erhebt DATEV auf verschiedene Arten.
+a) Daten, die DATEV aufgrund Ihrer Nutzung der öffentlichen Webseite erhält
+
+Bei jedem Aufruf unserer Websites werden folgende Daten des aufrufenden Systems erfasst:
+
+    IP-Adresse
+    Information über den Browsertyp
+
+DATEV speichert diese Daten zum Schutz der Funktionsfähigkeit, zur Optimierung und zur Gewährleistung der Sicherheit der Website bis zu zwei Monaten.
+
+Rechtsgrundlage für diese Verarbeitung ist das berechtigte Interesse der DATEV (Art. 6 Abs. 1 lit. f) DS-GVO).
+
+Wenn Sie unsere Webseite besuchen, werden anonyme Web-Serverlogbücher erzeugt, die DATEV für statistische Zwecke (beispielsweise die Anzahl der Zugriffe) und zur Fehlerverfolgung speichert. Weitere Auswertungen Ihrer Nutzungsdaten erfolgen nicht ohne Ihre Zustimmung.
+b) Daten, die DATEV aufgrund Ihrer Nutzung der Webseite mit Zugriffsschutz erhält
+
+Bei der Nutzung des geschützten Bereichs unserer Websites und Online-Anwendungen erhebt DATEV die folgenden Daten:
+
+    IP-Adresse
+    Information über den Browsertyp
+    Identifikation ihrer Person (bei nPa, smsTAN)
+    Identifikation ihres Arbeitgebers
+    Zeit und Inhalt Ihrer Anfragen und Antworten durch DATEV
+    übertragenes Datenvolumen
+    aufgerufene Transaktionen (URLs)
+    Fehlermeldungen des Authentisierungsverfahrens und der Anwendungen
+    Wenn Sie den neuen Personalausweis nutzen, ein dienste- und kartenspezifisches Kennzeichen zu Ihrer Identifikation
+
+Die nutzerspezifischen Detailinformationen werden maximal 30 Tage aufgehoben.
+Auswertungen dieser Daten finden ausschließlich zum Zwecke der Fehler- und Performanceanalyse, im Rahmen der Kundenbetreuung sowie zum Nachvollzug durchgeführter Transaktionen statt.
+
+Rechtsgrundlage für diese Verarbeitung ist das berechtigte Interesse der DATEV (Art. 6 Abs. 1 lit. f) DS-GVO).
+c) Daten, die Sie DATEV mitteilen
+
+Diese Daten teilen Sie DATEV direkt mit:
+
+    Daten zu Ihrer Authentifizierung
+    Ihre E-Mail-Adresse
+    Daten zur Erfüllung des jeweiligen Dienstes
+
+Die Daten werden gespeichert solange Sie den jeweiligen Dienst nutzen. Nach Beendigung der Leistung durch den Arbeitnehmer werden die Daten mit dem nächsten Verarbeitungsdurchlauf laut Datenfahrplan gelöscht.
+
+Rechtsgrundlage: Diese Verarbeitung ist zur Vertragserfüllung mit dem Betroffenen (Art. 6 Abs. 1 lit. b) DS-GVO).
+
+Die von Ihnen in Arbeitnehmer online hinterlegte E-Mail-Adresse verwendet DATEV nur in der direkten Kommunikation mit Ihnen, beispielsweise um Sie über neu bereitgestellte Dokumente zu informieren. Ihre E-Mail-Adresse wird nicht an Dritte weitergegeben.
+
+Rechtsgrundlage: Berechtigtes Interesse des Betroffenen an einer zeitnahen Information (Art. 6 Abs. 1 lit. f) DS-GVO)
+d) Daten, die DATEV weitergibt
+
+Um eine Zusammenarbeit mit Ihrem Arbeitgeber und ggf. seinem Steuerberater zu gewährleisten, gibt DATEV folgende Daten an diese weiter:
+
+    den Zeitpunkt Ihrer Registrierung
+    Information über eine von Ihnen veranlasste Abmeldung von Arbeitnehmer online
+    Information über den Zeitpunkt einer Account-Wiederherstellung
+    Information über eine von Ihnen veranlasste Änderung der Zugangsdaten
+    die Bezeichnung der Datenfelder, die zu einem Fehler bei Ihrer Registrierung geführt haben
+    Daten, die Sie explizit zur Weitergabe gekennzeichnet haben
+
+Daten, die Sie während der Registrierung eingegeben haben bzw. Daten Ihres Authentifizierungsmediums werden nicht weitergegeben.
+
+Rechtsgrundlage für diese Verarbeitung ist das berechtigte Interesse der DATEV und des Arbeitgebers bzw. seines Steuerberaters (Art. 6 Abs. 1 lit. f) DS-GVO).
+e) Cookies
+
+DATEV verwendet auf den eigenen Internetseiten temporäre und permanente Cookies. Temporäre Cookies sind zeitlich begrenzt und enthalten Daten wie beispielsweise eine Identifikations-Nummer (so genannte Session ID). Sie erlauben es dem Server, aufeinander folgende Anfragen des Browsers demselben Benutzer zuzuordnen. Sie werden automatisch gelöscht, sobald der Benutzer den Browser schließt.
+
+Permanente Cookies hingegen bleiben erhalten, auch nachdem der Benutzer den Browser geschlossen hat. Bei DATEV dienen permanente Cookies für Präferenzen und Einstellungen dazu, Ihnen das Arbeiten mit der SmartCard zu erleichtern. Darüber hinaus verwendet DATEV permanente Cookies für eine unpersonalisierte Statistik, um unser Angebot für Sie weiterzuentwickeln und zu verbessern. Dabei werden keine personenbezogenen Daten ausgewertet. Diese Daten werden nach spätestens drei Jahren gelöscht.
+
+Rechtsgrundlage: das Setzen der Cookies dient der Erfüllung von berechtigten Interessen der DATEV (Art. 6 Abs. 1 lit. f) DS-GVO).
+
+Sie können die Speicherung von Cookies über Ihre Browser-Einstellungen deaktivieren und bereits gespeicherte Cookies jederzeit in Ihrem Browser löschen. Bitte beachten Sie jedoch, dass dieses Online-Angebot ohne Cookies nur noch eingeschränkt funktioniert.
+4 Weitere Verarbeitungszwecke
+
+Ihre personenbezogenen Daten können von DATEV aufgrund von anderen rechtlichen Verpflichtungen z. B. richterlicher Anordnung verarbeitet werden. Rechtsgrundlage aufgrund gesetzlicher Vorgaben (Art. 6 Abs. 1 lit. c) DS-GVO) oder im öffentlichen Interesse (Art. 6 Abs. 1 lit. e) DS-GVO).
+
+Soweit erforderlich, verarbeitet DATEV Ihre Daten über die eigentliche Erfüllung des Vertrages hinaus zur Wahrung berechtigter Interessen von uns oder Dritten. Zum Beispiel für:
+
+    bessere Kundenbetreuung,
+    Gewährleistung der IT-Sicherheit und des IT-Betriebs, z.B. Übertragungsprotokolle.
+    Prüfung und Optimierung von Verfahren zur Bedarfsanalyse und direkter Kundenansprache,
+    Geltendmachung rechtlicher Ansprüche und Verteidigung bei rechtlichen Streitigkeiten,
+    Maßnahmen zur Geschäftssteuerung und Weiterentwicklung von Dienstleistungen und Produkten.
+
+Rechtsgrundlage für diese Verarbeitung ist das berechtigte Interesse der DATEV (Art. 6 Abs. 1 lit. f) DS-GVO).
+5 Widerspruch
+
+Für inhaltliche Daten wenden Sie sich an Ihren Arbeitgeber.
+
+Für Daten, die DATEV für eigene Zwecke verarbeitet, haben Sie das Recht, aus Gründen. die sich aus Ihrer besonderen Situation ergeben, jederzeit gegen diese Verarbeitung Sie betreffender personenbezogener Daten Widerspruch einzulegen. Der Nutzung Ihrer personenbezogenen Daten für Direktwerbung, können Sie jederzeit ohne Angabe von Gründen und ihrer Kontaktdaten unter widerspruch@datev.de widersprechen.
+6 Dauer der Speicherung
+
+Sind Ihre personenbezogenen Daten für die oben genannten Zwecke nicht mehr erforderlich, werden diese regelmäßig gelöscht, es sei denn, deren – befristete – Aufbewahrung ist zur Erfüllung vertraglicher oder gesetzlicher Pflichten weiterhin notwendig. Gründe hierfür können z.B. sein:
+
+    Das Erhalten von Beweismitteln für rechtliche Auseinandersetzungen im Rahmen der gesetzlichen Verjährungsvorschriften: Zivilrechtliche Verjährungsfristen können bis zu 30 Jahre betragen, wobei die regelmäßige Verjährungsfrist drei Jahre beträgt.
+    Protokolldaten werden bis zu 2 Jahre und Ihre Anfragen bei unserem Kundenservice bis zu 3 Jahre gespeichert.
+
+Nach Ablauf dieser Fristen werden die Daten nach einer Nachbearbeitungsfrist gelöscht.
+7 Empfänger personenbezogener Daten
+
+Innerhalb der DATEV erhalten diejenigen Stellen Zugriff auf Ihre Daten, die diese zur Bearbeitung der oben genannten Zwecke brauchen. Auch von DATEV eingesetzte Auftragsverarbeiter (Art. 28 DS-GVO) und andere Dienstleister können zu diesen genannten Zwecken Daten erhalten. Dies sind Unternehmen in den Kategorien IT-Dienstleistungen, Logistik, Telekommunikation und Marketing. Daneben arbeitet DATEV zur Entwicklung und Verbesserung von Dienstleistungen auch mit Universitäten zusammen. Eine Datenweitergabe an Empfänger außerhalb der DATEV erfolgt nur, wenn Bestimmungen dies erlauben oder gebieten, Sie eingewilligt haben oder wir anderweitig zur Datenweitergabe befugt sind. Unter diesen Voraussetzungen können Empfänger personenbezogener Daten z. B. sein:
+
+    Öffentliche Stellen und Institutionen, bei Vorliegen einer gesetzlichen oder behördlichen Verpflichtung.
+    In seltenen Einzelfällen von Wartung oder zur Störungsanalyse können Supportpartner von Hard- oder Software eingesetzt werden. Mit diesen werden die gesetzlich vorgesehenen vertraglichen Regelungen zur Zweckbindung und Vertraulichkeit abgeschlossen.
+
+8 Drittland
+
+Im Rahmen der Fernwartung von Standard-IT-Komponenten ist es zur Fehlerbehebung im Einzelfall nicht auszuschließen, dass ein IT-Dienstleister aus einem Drittland (z. B. USA) in seltenen Fällen gesteuert und begrenzt Einsicht in personenbezogene Daten erhält. Eine Übermittlung personenbezogener Daten an Dienstleister außerhalb des Europäischen Wirtschaftsraums (EWR) erfolgt nur, soweit dem Drittland durch die EU-Kommission ein angemessenes Datenschutzniveau bestätigt wurde oder andere angemessene Datenschutzgarantien (z. B. verbindliche unternehmensinterne Datenschutzvorschriften oder EU-Standardvertragsklauseln) vorhanden sind.
+9 Betroffenenrechte
+
+Für inhaltliche Daten wenden Sie sich an Ihren Arbeitgeber. Daten zu Ihrer Person, die Sie eingegeben haben, erhalten Sie im Rahmen der gesetzlichen Vorgaben auf Antrag in einem übertragbaren Format.
+
+Für Daten, die DATEV für eigene Zwecke verarbeitet, können Sie auf Antrag Auskunft über die zu Ihrer Person gespeicherten Daten erhalten. Bitte informieren Sie uns, wenn wir unrichtige Daten über Sie gespeichert haben oder wenn Sie mit Teilen der Datenspeicherung nicht einverstanden sind, damit wir diese berichtigen, löschen oder deren Verarbeitung einschränken können.
+
+Bitte wenden Sie sich zur Ausübung eines Betroffenenrechts an widerspruch@datev.de der DATEV unter Angabe
+
+    Ihrer Kontaktdaten
+    der Betroffenenrechte, die Sie ausüben wollen.
+
+10 Bestehen eines Beschwerderechts bei einer Aufsichtsbehörde
+
+Im Fall von Beschwerden können Sie sich an eine Aufsichtsbehörde wenden. Für DATEV ist das Bayerische Landesamt für Datenschutzaufsicht die zuständige Aufsichtsbehörde.
+11 Sicherheit
+
+DATEV ergreift geeignete technische und organisatorische Maßnahmen, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten und personenbezogene Daten vor Vernichtung, Verlust, Veränderung oder unbefugter Offenlegung und unbefugtem Zugang zu schützen. Die Wirksamkeit dieser Maßnahmen wird regelmäßig überprüft, bewertet und evaluiert.
+12 Links zu anderen Webseiten
+
+Rufen Sie eine externe Internetseite von unserer Seite auf (externer Link), wird der externe Anbieter möglicherweise von Ihrem Browser die Information erhalten, von welcher Seite Sie zu ihm gekommen sind. Für diese Daten ist der externe Anbieter verantwortlich. Wir sind, wie jeder andere Anbieter, nicht in der Lage, diesen Vorgang zu beeinflussen.
+13 Videoeinbindung via YouTube
+
+Auf unserer Webseite werden Videos von YouTube eingebunden. Die Einbindung erfolgt über eine sogenannte 2-Klick-Lösung, erst bei dem Klick auf das Video, werden die Standarddaten an Google übertragen. Im Einzelnen können hier die IP-Adresse, die spezifische Adresse der bei uns aufgerufenen Seite, ggf. die Seite, von der Sie uns erreicht haben (Linkquelle), die übertragene Kennung des Browsers sowie Systemdatum und -zeit des Aufrufes übertragen werden. Möglicherweise erhält Google weitere Daten über bereits gespeicherte Cookies. Für diese Daten ist Google verantwortlich. Ohne den Aufruf von Seiten mit eingebundenen Videos werden keine Daten an YouTube bzw. Google übertragen.
