@@ -96,11 +96,13 @@ Soweit erforderlich, verarbeitet DATEV Ihre Daten über die eigentliche Erfüllu
     Maßnahmen zur Geschäftssteuerung und Weiterentwicklung von Dienstleistungen und Produkten.
 
 Rechtsgrundlage für diese Verarbeitung ist das berechtigte Interesse der DATEV (Art. 6 Abs. 1 lit. f) DS-GVO).
+
+DATEV verarbeitet die personenbezogenen Daten im Zusammenhang mit Arbeitnehmer online weder für Werbung oder Markt- und Meinungsforschung noch für Profiling und automatisierte Entscheidungsfindung.
 5 Widerspruch
 
 Für inhaltliche Daten wenden Sie sich an Ihren Arbeitgeber.
 
-Für Daten, die DATEV für eigene Zwecke verarbeitet, haben Sie das Recht, aus Gründen. die sich aus Ihrer besonderen Situation ergeben, jederzeit gegen diese Verarbeitung Sie betreffender personenbezogener Daten Widerspruch einzulegen. Der Nutzung Ihrer personenbezogenen Daten für Direktwerbung, können Sie jederzeit ohne Angabe von Gründen und ihrer Kontaktdaten unter widerspruch@datev.de widersprechen.
+Sie haben das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung Sie betreffender personenbezogener Daten Widerspruch einzulegen, sofern diese Verarbeitung im Rahmen der Interessenabwägung oder im öffentlichen Interesse erfolgt. Bitte wenden Sie sich dazu an widerspruch@datev.de.
 6 Dauer der Speicherung
 
 Sind Ihre personenbezogenen Daten für die oben genannten Zwecke nicht mehr erforderlich, werden diese regelmäßig gelöscht, es sei denn, deren – befristete – Aufbewahrung ist zur Erfüllung vertraglicher oder gesetzlicher Pflichten weiterhin notwendig. Gründe hierfür können z.B. sein:
@@ -111,7 +113,7 @@ Sind Ihre personenbezogenen Daten für die oben genannten Zwecke nicht mehr erfo
 Nach Ablauf dieser Fristen werden die Daten nach einer Nachbearbeitungsfrist gelöscht.
 7 Empfänger personenbezogener Daten
 
-Innerhalb der DATEV erhalten diejenigen Stellen Zugriff auf Ihre Daten, die diese zur Bearbeitung der oben genannten Zwecke brauchen. Auch von DATEV eingesetzte Auftragsverarbeiter (Art. 28 DS-GVO) und andere Dienstleister können zu diesen genannten Zwecken Daten erhalten. Dies sind Unternehmen in den Kategorien IT-Dienstleistungen, Logistik, Telekommunikation und Marketing. Daneben arbeitet DATEV zur Entwicklung und Verbesserung von Dienstleistungen auch mit Universitäten zusammen. Eine Datenweitergabe an Empfänger außerhalb der DATEV erfolgt nur, wenn Bestimmungen dies erlauben oder gebieten, Sie eingewilligt haben oder wir anderweitig zur Datenweitergabe befugt sind. Unter diesen Voraussetzungen können Empfänger personenbezogener Daten z. B. sein:
+Innerhalb der DATEV erhalten diejenigen Stellen Zugriff auf Ihre Daten, die diese zur Bearbeitung der oben genannten Zwecke brauchen. Auch von DATEV eingesetzte Auftragsverarbeiter (Art. 28 DS-GVO) und andere Dienstleister können zu diesen genannten Zwecken Daten erhalten. Dies sind Unternehmen in den Kategorien IT-Dienstleistungen, Logistik und Telekommunikation. Daneben arbeitet DATEV zur Entwicklung und Verbesserung von Dienstleistungen auch mit Universitäten zusammen. Eine Datenweitergabe an Empfänger außerhalb der DATEV erfolgt nur, wenn Bestimmungen dies erlauben oder gebieten, Sie eingewilligt haben oder wir anderweitig zur Datenweitergabe befugt sind. Unter diesen Voraussetzungen können Empfänger personenbezogener Daten z. B. sein:
 
     Öffentliche Stellen und Institutionen, bei Vorliegen einer gesetzlichen oder behördlichen Verpflichtung.
     In seltenen Einzelfällen von Wartung oder zur Störungsanalyse können Supportpartner von Hard- oder Software eingesetzt werden. Mit diesen werden die gesetzlich vorgesehenen vertraglichen Regelungen zur Zweckbindung und Vertraulichkeit abgeschlossen.
