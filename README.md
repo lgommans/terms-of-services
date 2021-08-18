@@ -3,6 +3,9 @@
 This repository is a collection of terms of services. When they get updated, I
 update the file, and Github can nicely display a "diff" (highlight differences).
 
+Remarks, such as the URL it was retrieved from, are near or at the beginning of
+the file.
+
 ## Why
 
 I just started this since I was disappointed in Github's ToS update not being
@@ -19,7 +22,3 @@ Feel free to pull request any new ToS'es or updates!
 
 If you want to improve an existing ToS' readability, please commit your changes
 into a new file, e.g. [service-name]-v2.txt.
-
-## Terms of Services in this repository
-
-- Github.com as html and as txt, where txt is just a copy-paste out of Firefox.
